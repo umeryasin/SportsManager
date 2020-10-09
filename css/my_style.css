@@ -1,0 +1,6 @@
+.new  a:active .anchor{
+	color: red !important;
+}
+.new  a:focus .anchor{
+	border: 1px solid black;
+}
